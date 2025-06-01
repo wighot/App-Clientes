@@ -11,7 +11,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-
+## Esctructura de la base da datos
+![](https://github.com/wighot/App-Clientes/blob/main/Captura%20de%20pantalla%202025-06-01%20114710.png)
 
 ## License
 
